@@ -23,3 +23,8 @@ organized? How would branches help?
 This helps when you want to branch out to an experimental version, or different
 languages or suppport for different devices. Also useful to creat a backup branch
 with the same features as the master branch but a more stable version.
+
+R.e.#5 
+How do the diagrams help you visualize the branch structure?
+They make the parent-child relationship of the different commits visible which
+basically builds up the branch structure.
