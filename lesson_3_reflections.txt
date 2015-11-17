@@ -4,3 +4,10 @@ This several benefits:
 - Allows contributions by several people regardless of location
 - Serves as a back up with no vulnerability to physical defects
 - Open Source structure allows for contributions from strangers
+
+R.e.#2
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+Because updating automatically means that you don't really have control over which commits
+or what content gets pushed on your local repository, since other people could have
+updated the GitHub repository.
