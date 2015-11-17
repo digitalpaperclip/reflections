@@ -11,3 +11,17 @@ stay up-to-date with your remote repository?
 Because updating automatically means that you don't really have control over which commits
 or what content gets pushed on your local repository, since other people could have
 updated the GitHub repository.
+
+R.e.#3
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+- Forks
+Used to copy public repositories that you don't have direct access to.
+Credits the original author
+- Clones
+Used to copy repositories that you do have direct access to, e.g. between
+your own repository on GitHub and locally or between a fork on your GitHup and
+locally.
+- Branches
+Different Commit "families" inside of a repository. Used if you work on several
+parts of a project at once, eg. an easy mode and a italian localization.
